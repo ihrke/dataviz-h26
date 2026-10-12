@@ -12,7 +12,9 @@ After the break, I will also briefly introduce the projects so that you can star
 We went through slides on data visualisation (part 1). There will be a second part when we next meet. When discussing tools for picking colours, I mentioned that I would list some here, so here you go - they are all fun to play with and do distinct but similar things.
 
 https://colorbrewer2.org/
+
 https://coolors.co/
+
 https://www.coblind.com/color-blindness-simulator-image
 
 I should also introduce the idea of how we define or name colours we want to use. I'll talk more about this next time but basically the most common ways are either:
